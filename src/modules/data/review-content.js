@@ -137,7 +137,7 @@ export const reviewChapters = [
 ];
 
 export const reviewDocumentation = [
-  { chapter: 'identitas', src: '/review-jurnal/image.png', title: 'Visual pendukung artikel', description: 'Gambar utama dari folder konten digunakan sebagai orientasi visual kajian jurnal.', externalUrl: 'https://ejournal.radenintan.ac.id/index.php/IJSME/article/view/30344' },
+  { chapter: 'identitas', src: '/review-jurnal/image.png', title: 'Artikel pada Indonesian Journal of Science and Mathematics Education', description: 'Artikel yang dikaji diterbitkan dalam Indonesian Journal of Science and Mathematics Education. Tangkapan layar laman jurnal ini menegaskan identitas artikel sekaligus memuat informasi utama, seperti judul, penulis, dan data publikasi.', externalUrl: 'https://ejournal.radenintan.ac.id/index.php/IJSME/article/view/30344' },
   { chapter: 'identitas', src: '/review-jurnal/garuda.png', title: 'Rekam artikel pada GARUDA', description: 'Tangkapan layar mendokumentasikan keberadaan dan informasi artikel pada portal GARUDA Kemdiktisaintek.', externalUrl: 'https://garuda.kemdiktisaintek.go.id/author/view/10345400' },
   { chapter: 'identitas', src: '/review-jurnal/sinta.png', title: 'Status jurnal pada SINTA', description: 'Tangkapan layar mendukung informasi peringkat jurnal yang tercatat sebagai Sinta 2.', externalUrl: 'https://sinta.kemdiktisaintek.go.id/journals/profile/4886?q=live#!' }
 ];
